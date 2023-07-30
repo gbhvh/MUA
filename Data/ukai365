@@ -1,0 +1,76 @@
+{"GameData":
+	[
+		{
+			"GameID":0,
+			"GameName":"All Slot",
+			"Url":"v2Allg",
+			"cmdJoin":"Null",
+			"cmdPlay":"Null",
+			"cmdBonus":"Null"
+		},
+		{
+			"GameID":1,
+			"GameName":"Kong",
+			"Url":"v2kong",
+			"cmdJoin":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22PlayNow%22%2C%22A%22%3A%5B%5D%2C%22I%22%3APINNIG%7D",
+			"cmdPlay":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22Spin%22%2C%22A%22%3A%5B25%2C100%5D%2C%22I%22%3APINNIG%7D",
+			"cmdBonus":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22PlayBonusGame%22%2C%22A%22%3A%5B0%5D%2C%22I%22%3APINNIG%7D"
+		},
+		{
+			"GameID":2,
+			"GameName":"Trái Cây",
+			"Url":"v2fruit",
+			"cmdJoin":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22PlayNow%22%2C%22A%22%3A%5B1%2C1%5D%2C%22I%22%3APINNIG%7D",
+			"cmdPlay":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22Spin%22%2C%22A%22%3A%5B20%2C1%5D%2C%22I%22%3APINNIG%7D",
+			"cmdBonus":"abc"
+		},
+		{
+			"GameID":3,
+			"GameName":"Tiên Cá",
+			"Url":"v2mermaid",
+			"cmdJoin":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22PlayNow%22%2C%22A%22%3A%5B1%2C1%5D%2C%22I%22%3APINNIG%7D",
+			"cmdPlay":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22Spin%22%2C%22A%22%3A%5B%221%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%22%2C1%5D%2C%22I%22%3APINNIG%7D",
+			"cmdBonus":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22PlayBonusGame%22%2C%22A%22%3A%5B0%5D%2C%22I%22%3APINNIG%7D"
+		},
+		{
+			"GameID":4,
+			"GameName":"Đào Vàng",
+			"Url":"v2gold",
+			"cmdJoin":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22PlayNow%22%2C%22A%22%3A%5B%5D%2C%22I%22%3APINNIG%7D",
+			"cmdPlay":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22Spin%22%2C%22A%22%3A%5B100%2C25%5D%2C%22I%22%3APINNIG%7D",
+			"cmdBonus":"%7B%22H%22%3A%22gamehub%22%2C%22M%22%3A%22PlayBonusGame%22%2C%22A%22%3A%5B0%5D%2C%22I%22%3APINNIG%7D"
+		},
+		{
+			"GameID":5,
+			"GameName":"Candy",
+			"Url":"v2candy",
+			"cmdJoin":"Null",
+			"cmdPlay":"{"H":"minicandyhub","M":"UserSpin","A":[1,1,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"],"I":PINNIG}",
+			"cmdBonus":"Null"
+		},
+		{
+			"GameID":6,
+			"GameName":"Kubo",
+			"Url":"v2kubo",
+			"cmdJoin":"Null",
+			"cmdPlay":"abc",
+			"cmdBonus":"Null"
+		},
+		{
+			"GameID":7,
+			"GameName":"Monster",
+			"Url":"v2monster",
+			"cmdJoin":"Null",
+			"cmdPlay":"abc",
+			"cmdBonus":"Null"
+		},
+		{
+			"GameID":8,
+			"GameName":"Mini Poker",
+			"Url":"v2videopoker",
+			"cmdJoin":"Null",
+			"cmdPlay":"abc",
+			"cmdBonus":"Null"
+		}
+	]
+}
