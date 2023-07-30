@@ -45,7 +45,7 @@
 			"GameName":"Candy",
 			"Url":"v2candy",
 			"cmdJoin":"Null",
-			"cmdPlay":"{"H":"minicandyhub","M":"UserSpin","A":[1,1,"1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20"],"I":PINNIG}",
+			"cmdPlay":"{%7B%22H%22%3A%22minicandyhub%22%2C%22M%22%3A%22UserSpin%22%2C%22A%22%3A%5B1%2C1%2C%221%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2C12%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%22%5D%2C%22I%22%3APINNIG%7D",
 			"cmdBonus":"Null"
 		},
 		{
